@@ -6,7 +6,6 @@ import About from "./pages/About";
 import Contact from "./pages/Contact";
 import AllPosts from "./pages/AllPosts";
 import Footer from "./components/Footer";
-import SocialMedia from "./pages/Socialmedia";
 import UnderConstruction from "./pages/Working";
 import AdminDashboard from "./pages/Admin/AdminDashboard";
 import AdminLogin from "./pages/Admin/AdminLogin";
