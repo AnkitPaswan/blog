@@ -63,9 +63,9 @@ export default function Navbar() {
               <button className="p-2 text-white/70 hover:text-white hover:bg-white/10 rounded-full transition-colors">
                 <Bell size={20} />
               </button>
-              {/* <button className="p-2 text-white/70 hover:text-white hover:bg-white/10 rounded-full transition-colors">
+              <button className="p-2 text-white/70 hover:text-white hover:bg-white/10 rounded-full transition-colors">
                 <User size={20} />
-              </button> */}
+              </button> 
             </div>
           </div>
 
