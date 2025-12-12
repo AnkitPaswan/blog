@@ -129,18 +129,18 @@ export default function BlogDetail() {
               </div>
 
               <div className="flex items-center space-x-6 text-sm text-gray-500">
-                {/* <div className="flex items-center space-x-1">
+                <div className="flex items-center space-x-1">
                   <Heart className="w-4 h-4" />
                   <span>{post.likes}</span>
                 </div>
                 <div className="flex items-center space-x-1">
                   <MessageCircle className="w-4 h-4" />
                   <span>{post.comments}</span>
-                </div> */}
-                {/* <div className="flex items-center space-x-1">
+                </div>
+                <div className="flex items-center space-x-1">
                   <Repeat2 className="w-4 h-4" />
                   <span>{post.retweets}</span>
-                </div> */}
+                </div>
               </div>
             </div>
           </div>
